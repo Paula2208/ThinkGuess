@@ -54,7 +54,7 @@ En los asertijos encontrarás unas líneas, estas coniciden con el número de le
 3. Ejecuta el archivo principal del juego:
 
 ```bash
-   python src/main.py
+   python main.py
 ```
 
-![Base Principal de Think Guess](src/assets/thinkguess.jpg "Think Guess")
+![Base Principal de Think Guess](assets/thinkguess.jpg "Think Guess")
