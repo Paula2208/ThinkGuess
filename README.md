@@ -42,7 +42,7 @@ En los asertijos encontrarás unas líneas, estas coniciden con el número de le
 
 1. Clona el repositorio o descarga los archivos del proyecto.
 ```bash
-   git clone link
+   git clone https://github.com/Paula2208/ThinkGuess.git
 ```
 
 2. Asegúrate de tener Python y PyGame instalados:
